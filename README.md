@@ -59,10 +59,7 @@ Keep your projects on track with integrated task management, deadlines, and prog
   npm run dev     
 ```
 
-## 🙏 Acknowledgements
-- Microsft Loop for inspiration
-- GeminiAI for AI integration
-- All our Users
+
 
 
 
